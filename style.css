@@ -1,0 +1,67 @@
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+html {
+    background-color: #1f1f1f;
+  }
+
+label {
+    color: rgb(206, 206, 206)
+}
+
+.block {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #1f1f1f;
+    padding: 0 20px 20px 20px;
+    border: 4px solid rgb(26, 26, 26);
+    
+  }
+
+h1 {
+    font-size: 55px;
+    margin: 0;
+    padding: 20px 0;
+    color: #ffffff;
+    text-shadow: 3px 3px 1px black;
+  }
+
+
+
+.block {
+    width: 250px;
+    height: 190px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
+    }
+
+html {
+    font-family: "Teko", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.joinBtn {
+    width: 6em;
+    height: 4ex;
+    position: absolute;
+    top: 83%;
+    left: 100px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+  }
+  
+  .joinBtn:hover {
+    background-color: #8b8b8b;
+  }
+
+.join{
+    border-radius: 7px;
+}
